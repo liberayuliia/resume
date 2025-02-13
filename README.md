@@ -1,1 +1,2 @@
 # resume
+added main.js
